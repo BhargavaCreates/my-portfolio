@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Code+Pro&display=swap');
+
+html {
+  background-color: /*#1f2b3b*/ #ede1e1 !important;
+  color: #fff !important;
+  /* font-size: 2em; */
+  font-family: "Poppins", sans-serif !important;
+}
+
+body {
+  background-color: /*#1f2b3b*/ #ede1e1  !important;
+  color: #fff !important;
+  font-size: 20px !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.code {
+  font-family: "Source Code Pro", monospace;
+}
+
+.info {
+  line-height: 1.4;
+  width: 85%;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white !important;
+}
+
+.icon {
+  height: 30px;
+  transition: 0.1s ease-in;
+  color:black;
+}
+
+.icon:hover {
+  transform: scale(1.5);
+  color: #ff8a00;
+}
+
+.card {
+  box-shadow: 0px 4px 4px rgba(68, 14, 14, 0.25);
+  transition: 0.1s ease-in;
+  background-color:  #5c5e5f !important;
+}
+
+.card p {
+  font-size: 0.7em;
+  color: #ccc !important;
+}
+
+.card a {
+  font-size: 0.7em;
+}
+
+.card:hover {
+  transform: scale(1.09);
+}
+
+.flex-container {
+  padding: 0;
+  margin: 0 48px;
+  list-style: none;
+  display: flex;
+}
+.space-evenly { 
+  justify-content: space-evenly; 
+}
+footer{
+  margin: 50px auto 0px;
+  text-transform: lowercase;
+  text-align: center;
+  color: #324359;
+}
+
+#welcome{
+  text-align: center;
+  color: #ff8a00;
+
+}
+
+.b {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #324359;
+}
+
+.date {
+  color: #324359;
+  margin-left: 80%;
+  text-size-adjust: 50%;
+  margin-top: 0px;
+}
+
+#title {
+  font-size: larger;
+}
+
+#content {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.article {
+  color: #324359;
+}

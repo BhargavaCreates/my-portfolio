@@ -1,0 +1,24 @@
+- title: Weather-Web-App
+  subtitle: A simple NodeJS weather app using basic HTML and CSS.
+  link: https://github.com/BhargavaCreates/weather-web-app
+
+- title: Secrets 
+  subtitle: A secret sharing web app(with authentication).
+  link: https://github.com/BhargavaCreates/Secrets
+
+- title: Newsletter-Mailist
+  subtitle: Get Emails from Instagram Followers for Email Marketing. Developed using MailChimp API and NodeJS
+  link: https://github.com/BhargavaCreates/newsletter-mailist
+
+- title: To-Do-List
+  subtitle: A ToDo App using NodeJS
+  link: https://github.com/BhargavaCreates/todolist-v1
+
+- title: Drum Kit
+  subtitle: Document Object Model project.
+  link: https://github.com/BhargavaCreates/Drum-Kit
+
+- title: N-Body-Simulation
+  subtitle: Java Project simulating motion of n-body under Gravitational Laws.
+  link: https://github.com/BhargavaCreates/NBodySimulation
+
