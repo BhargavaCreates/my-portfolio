@@ -20,6 +20,7 @@ function index() {
       <Info />
       <Helmet>
         <meta charSet="utf-8" />
+        <meta name="google-site-verification" content="ZUD_YcRlDkqjXd2crIbpQpGIYPw7LHZlmXZQ7Yxymsg" />
         <title>Home | Aman</title>
       </Helmet>
       <Footer/>
