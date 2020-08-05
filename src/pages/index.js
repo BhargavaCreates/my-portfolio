@@ -8,6 +8,7 @@ import Footer from "../components/footer"
 function index() {
   return (
     <div>
+      <head><meta name="google-site-verification" content="ZUD_YcRlDkqjXd2crIbpQpGIYPw7LHZlmXZQ7Yxymsg" /></head>
       <Appbar />
       <Info />
       <Helmet>
