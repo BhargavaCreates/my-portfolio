@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background-color: /*#1f2b3b*/ #ede1e1  !important;
+  background-color: /*#1f2b3b*/ /*#ede1e1*/ #e3d294   !important;
   color: #fff !important;
   font-size: 20px !important;
   font-family: "Poppins", sans-serif !important;
